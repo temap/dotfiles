@@ -1,0 +1,14 @@
+[user]
+	name = Artem Panfilov
+	email = artem.panfilov@nokia.com
+[alias]
+	a = add
+	br = branch
+	ci = commit
+	co = checkout
+	st = status
+	up = pull --rebase --autostash
+[branch]
+	autosetuprebase = always
+[core]
+	editor = vim

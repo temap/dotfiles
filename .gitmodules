@@ -1,0 +1,9 @@
+[submodule "vim/pack/temap/start/nerdtree"]
+	path = .vim/pack/temap/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim/pack/temap/start/vim-go"]
+	path = .vim/pack/temap/start/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "vim/pack/temap/start/vim-airline"]
+	path = .vim/pack/temap/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
