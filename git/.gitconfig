@@ -1,0 +1,24 @@
+[user]
+	name = Artem Panfilov
+	email = panfilov.artyom@gmail.com
+[alias]
+	a = add
+	br = branch
+	ci = commit
+	co = checkout
+	st = status
+	up = pull --rebase --autostash
+[branch]
+	autosetuprebase = always
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[sendemail]
+	smtpuser = panfilov.artyom@gmail.com
+	smtpserver = smtp.googlemail.com
+	smtpencryption = tls
+	smtpserverport = 587
+[core]
+	editor = vim
