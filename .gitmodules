@@ -1,30 +1,18 @@
-[submodule "vim/pack/temap/start/ctrlp.vim"]
-	path = vim/pack/temap/start/ctrlp.vim
-	url = https://github.com/kien/ctrlp.vim.git
-[submodule "vim/pack/temap/start/gocode"]
-	path = vim/pack/temap/start/gocode
-	url = https://github.com/nsf/gocode.git
 [submodule "vim/pack/temap/start/nerdtree"]
-	path = vim/pack/temap/start/nerdtree
+	path = .vim/pack/temap/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "vim/pack/temap/start/tagbar"]
-	path = vim/pack/temap/start/tagbar
-	url = https://github.com/majutsushi/tagbar.git
 [submodule "vim/pack/temap/start/vim-gitgutter"]
-	path = vim/pack/temap/start/vim-gitgutter
+	path = .vim/pack/temap/start/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
 [submodule "vim/pack/temap/start/vim-go"]
-	path = vim/pack/temap/start/vim-go
+	path = .vim/pack/temap/start/vim-go
 	url = https://github.com/fatih/vim-go.git
 [submodule "vim/pack/temap/start/vim-multiple-cursors"]
-	path = vim/pack/temap/start/vim-multiple-cursors
+	path = .vim/pack/temap/start/vim-multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors.git
-[submodule "vim/pack/temap/start/vim-fugitive"]
-	path = vim/pack/temap/start/vim-fugitive
-	url = https://github.com/tpope/vim-fugitive.git
 [submodule "vim/pack/temap/start/vim-airline"]
-	path = vim/pack/temap/start/vim-airline
+	path = .vim/pack/temap/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
 [submodule "vim/pack/temap/start/vim-linux-coding-style"]
-	path = vim/pack/temap/start/vim-linux-coding-style
+	path = .vim/pack/temap/start/vim-linux-coding-style
 	url = https://github.com/vivien/vim-linux-coding-style.git
